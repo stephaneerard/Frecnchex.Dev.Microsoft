@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34804.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frenchex.Dev.Microsoft.Solution.Domain", "Frenchex.Dev.Microsoft.Solution.Domain\Frenchex.Dev.Microsoft.Solution.Domain.csproj", "{ED7297EF-AD96-482A-9BF9-7E93165DE9F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frenchex.Dev.Microsoft.Solution.Domain.Tests", "Frenchex.Dev.Microsoft.Solution.Domain.Tests\Frenchex.Dev.Microsoft.Solution.Domain.Tests.csproj", "{62ADEDB9-D5EB-4C68-AB81-555336CA54DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED7297EF-AD96-482A-9BF9-7E93165DE9F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED7297EF-AD96-482A-9BF9-7E93165DE9F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED7297EF-AD96-482A-9BF9-7E93165DE9F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED7297EF-AD96-482A-9BF9-7E93165DE9F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62ADEDB9-D5EB-4C68-AB81-555336CA54DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62ADEDB9-D5EB-4C68-AB81-555336CA54DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62ADEDB9-D5EB-4C68-AB81-555336CA54DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62ADEDB9-D5EB-4C68-AB81-555336CA54DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {188D81A5-5104-46F3-BA8F-1DD64BFF8B74}
+	EndGlobalSection
+EndGlobal
